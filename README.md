@@ -34,5 +34,5 @@
 ![Repos Badge](https://badges.pufler.dev/repos/lacerda53?style=for-the-badge)
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=lacerda53&show_icons=true&theme=dark&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api?username=lacerda53&show_icons=true&theme=dark&line_height=27&hide=contribs,prs">
 </p>
