@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Eu sou Guilherme Andrade Lacerda</h1>
+<h1 align="center">Olá 👋, me chamo Guilherme Andrade Lacerda</h1>
 <h3 align="center">Desenvolvedor backend, frontend e mobile</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lacerda53" alt="lacerda53" /> </p>
 
