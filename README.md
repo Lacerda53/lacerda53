@@ -1,6 +1,8 @@
-<h1 align="center">Olá 👋, me chamo Guilherme Andrade Lacerda</h1>
-<h3 align="center">Desenvolvedor backend, frontend e mobile</h3>
+<h1 align="center">Olá, me chamo Guilherme Andrade Lacerda</h1>
+<h3 align="center">Desenvolvedor Fullstack</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lacerda53" alt="lacerda53" /> </p>
+
+- 💻 Você pode me conhecer um pouco mais pelo meu protfólio [https://lacerda53.me](https://lacerda53.me)
 
 - 👨‍💻 Todos os meus projetos são avaliados em [https://sourcerer.io/lacerda53](https://sourcerer.io/lacerda53)
 
