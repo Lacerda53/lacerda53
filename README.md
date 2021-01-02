@@ -6,7 +6,7 @@
 
 - 👨‍💻 Todos os meus projetos são avaliados em [https://sourcerer.io/lacerda53](https://sourcerer.io/lacerda53)
 
-- 📝 As vezes escrevo artigos no Medium [https://guilherme-andrade2.medium.com/](https://guilherme-andrade2.medium.com/)
+- 📝 As vezes escrevo artigos no Medium [https://lacerda53.medium.com/](https://lacerda53.medium.com/)
 
 - 📫 Você pode me contatar pelo meu email **guilhermeandrade2013@gmail.com**
 
