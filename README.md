@@ -32,7 +32,7 @@
 </p>
 
 
-## Meu Stats:
+## Meu Status:
 [![Visits Badge](https://badges.pufler.dev/visits/lacerda53/lacerda53?style=for-the-badge)](https://github.com/lacerda53/lacerda53)
 ![Repos Badge](https://badges.pufler.dev/repos/lacerda53?style=for-the-badge)
 
