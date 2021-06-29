@@ -1,5 +1,5 @@
 <h1>Guilherme Andrade Lacerda 👨‍💻</h1>
-<h3>Desenvolvedor Frontend</h3>
+<h3>Desenvolvedor Frontend e Mobile</h3>
 
 💻 Você pode me conhecer um pouco mais pelo meu protfólio [https://lacerda53.me](https://lacerda53.me)
 
