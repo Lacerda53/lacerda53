@@ -1,14 +1,9 @@
 <h1>Guilherme Andrade Lacerda 👨‍💻</h1>
 <h3>Desenvolvedor Frontend e Mobile</h3>
 
-💻 Você pode me conhecer um pouco mais pelo meu protfólio [https://lacerda53.me](https://lacerda53.me)
-
 📝 As vezes escrevo artigos no Medium [https://lacerda53.medium.com/](https://lacerda53.medium.com/)
 
 📫 Você pode me contatar pelo meu email **guilhermeandrade2013@gmail.com**
-
-⚡ Curiosidades: **Curto jogar CS:GO e tocar projetos pessoais**
-
 
 <h3>🛠 Tecnologias</h3>
 
