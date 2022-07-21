@@ -18,9 +18,4 @@
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-## Meu Status:
-[![Visits Badge](https://badges.pufler.dev/visits/lacerda53/lacerda53?style=for-the-badge)](https://github.com/lacerda53/lacerda53)
-![Repos Badge](https://badges.pufler.dev/repos/lacerda53?style=for-the-badge)
-
-
 <img src = "https://github-readme-stats.vercel.app/api?username=lacerda53&show_icons=true&theme=dark&line_height=27&hide=contribs,prs">
